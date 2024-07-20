@@ -1,0 +1,7 @@
+Z:\Page6\bin\MemberLoginService.dll.config
+Z:\Page6\bin\MemberLoginService.dll
+Z:\Page6\bin\MemberLoginService.pdb
+Z:\Page6\obj\Debug\MemberLoginService.csproj.AssemblyReference.cache
+Z:\Page6\obj\Debug\MemberLoginService.csproj.CoreCompileInputs.cache
+Z:\Page6\obj\Debug\MemberLoginService.dll
+Z:\Page6\obj\Debug\MemberLoginService.pdb
